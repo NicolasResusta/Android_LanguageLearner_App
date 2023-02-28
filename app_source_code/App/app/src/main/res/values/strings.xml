@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">LearnIt</string>
+    <string name="opening_page_message1">Input native language</string>
+    <string name="opening_page_message2">Input foreign language</string>
+    <string name="submit">Submit</string>
+    <string name="clear">Clear</string>
+    <string name="check">Check</string>
+    <string name="restart">Restart</string>
+    <string name="opening_screen_title">Language Setter</string>
+    <string name="find_correct_word_title">Correct word test</string>
+    <string name="find_hang_man_title">Hang Man Game</string>
+    <string name="find_word_from_anagram_title">Anagram test</string>
+    <string name="change_lang_screen_title">Language configuration</string>
+    <string name="home">Home</string>
+    <string name="delete_button">Delete word from the vocab list</string>
+    <string name="vocabList">Vocabulary List</string>
+    <string name="nav_drawer_menu">NavMenu</string>
+    <string name="home_page_message1">Input the word in the native language</string>
+    <string name="home_page_message2">Input the word in the foreign language</string>
+    <string name="wordN1">Native Word</string>
+    <string name="wordF1">Foreign Word</string>
+    <string name="editIcon">Edit Icon</string>
+    <string name="LanguageN">Native Language</string>
+    <string name="LanguageF">Foreign Language</string>
+    <string name="correct_word_title">Write the correct Word</string>
+    <string name="correct_word_question">What is the correct translation for this word?</string>
+    <string name="arrow_icon">Arrow backwards icon</string>
+    <string name="answer_indicator">Write your answer here</string>
+    <string name="move_next_word">Move onto the next word</string>
+    <string name="move_next_puzzle">Move onto the next puzzle</string>
+    <string name="word_finder_title">Word Puzzle</string>
+    <string name="word_finder_body">Look for the translated words in the puzzle</string>
+    <string name="anagram_game_title">Find word from anagram</string>
+    <string name="anagram_game_question">Form the foreign word from this anagram</string>
+    <string name="scrambled_word">Orwd 1</string>
+    <string name="language_change_screen_title">Language Configuration</string>
+    <string name="language_page_message1">Input your new native language</string>
+    <string name="language_page_message2">Input your new foreign language</string>
+    <string name="alert_dialog_Title">Are you sure you want to change the languages?</string>
+    <string name="alert_dialog_Text">If you change the language all the saved words will be deleted.</string>
+
+    <string-array name="button_arrangement">
+        <item>Edit</item>
+        <item>Delete</item>
+    </string-array>
+</resources>
